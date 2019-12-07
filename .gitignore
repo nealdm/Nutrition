@@ -1,2 +1,6 @@
 /FoodData
 unit_dictionary
+hefty_df.csv
+totals_to_graph.csv
+sorted_dataframe2.pickle
+sorted_dataframe.pickle
